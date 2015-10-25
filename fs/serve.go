@@ -25,8 +25,8 @@ import (
 )
 
 const (
-	attrValidTime  = 1 * time.Minute
-	entryValidTime = 1 * time.Minute
+	attrValidTime  = 1 * time.Second
+	entryValidTime = 1 * time.Second
 )
 
 // TODO: FINISH DOCS
